@@ -1,4 +1,4 @@
-\# Sistema de Hotelaria
+# Sistema de Hotelaria
 
 
 
@@ -6,45 +6,45 @@ Projeto de modelagem de banco de dados para gerenciamento de um sistema de hotel
 
 
 
-\## Descrição
+## Descrição
 
 Este projeto foi desenvolvido para representar a estrutura de um banco de dados relacional para um sistema de hotelaria, incluindo hóspedes, reservas, quartos, funcionários e pagamentos.
 
 
 
-\## Funcionalidades
+## Funcionalidades
 
-\- Cadastro de hóspedes
+- Cadastro de hóspedes
 
-\- Controle de reservas
+- Controle de reservas
 
-\- Gerenciamento de quartos
+- Gerenciamento de quartos
 
-\- Registro de pagamentos
-
-
-
-\## Tecnologias
-
-\- MySQL
-
-\- SQL
-
-\- Modelagem de Dados (MER)
+- Registro de pagamentos
 
 
 
-\## Arquivos
+## Tecnologias
 
-\- MER.pdf → Diagrama do banco
+- MySQL
 
-\- modelo.sql → Estrutura das tabelas
+- SQL
 
-\- inserts.sql → Dados de teste
+- Modelagem de Dados (MER)
 
 
 
-\## Objetivo
+## Arquivos
+
+- MER.pdf → Diagrama do banco
+
+- modelo.sql → Estrutura das tabelas
+
+- inserts.sql → Dados de teste
+
+
+
+## Objetivo
 
 Praticar modelagem e implementação de banco de dados com base em um cenário real.
 
