@@ -42,6 +42,8 @@ Este projeto foi desenvolvido para representar a estrutura de um banco de dados 
 
 - inserts.sql → Dados de teste
 
+- consultas.sql → Consultas SQL com JOIN
+
 
 
 ## Objetivo
