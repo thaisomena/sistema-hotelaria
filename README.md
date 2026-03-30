@@ -48,3 +48,6 @@ Este projeto foi desenvolvido para representar a estrutura de um banco de dados 
 
 Praticar modelagem e implementação de banco de dados com base em um cenário real.
 
+## Demonstração do MER
+
+![MER](MER.png)
