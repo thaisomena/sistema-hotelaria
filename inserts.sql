@@ -1,0 +1,1 @@
+INSERT INTO Hospede VALUES ('12345678900', 'Maria Silva', 'maria@email.com');
